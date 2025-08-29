@@ -18,8 +18,11 @@ This repository contains the Register Transfer Level (RTL) design of a digital h
 ✅ Well-commented and clean RTL code
 
 📂 src/        -> RTL source files (Verilog)
+
 📂 tb/         -> Testbench files
+
 📂 sim/        -> Simulation outputs (waveforms, logs)
+
 📂 docs/       -> Documentation (block diagrams, notes)
 
 🧪 # Simulation & Verification
